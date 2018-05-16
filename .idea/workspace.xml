@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c20ba92b-7d21-4092-bd5d-b8fd4b0797cc" name="Default" comment="update">
-      <change afterPath="$PROJECT_DIR$/case/test_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case/test_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run_all_case.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/newstart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/newstart.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/newstart.iml" afterPath="$PROJECT_DIR$/.idea/newstart.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/api.py" afterPath="$PROJECT_DIR$/common/api.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/readexcel.py" afterPath="$PROJECT_DIR$/common/readexcel.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,13 +15,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="logger.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common/logger.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="384">
+              <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
               <folding>
                 <element signature="e#19#33#0" expanded="true" />
               </folding>
@@ -34,17 +33,18 @@
       <file leaf-file-name="readexcel.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common/readexcel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="17" />
+            <state relative-caret-position="240">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="api.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="api.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common/api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="768">
+              <caret line="95" column="0" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
               <folding>
                 <element signature="e#19#30#0" expanded="true" />
               </folding>
@@ -52,11 +52,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="run_all_case.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/run_all_case.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="wirteexcel.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common/wirteexcel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+            <state relative-caret-position="624">
+              <caret line="40" column="35" lean-forward="false" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
               <folding>
                 <element signature="e#19#53#0" expanded="true" />
               </folding>
@@ -67,8 +77,9 @@
       <file leaf-file-name="try.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common/try.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+            <state relative-caret-position="352">
+              <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -91,54 +102,465 @@
         <option value="$PROJECT_DIR$/common/logger.py" />
         <option value="$PROJECT_DIR$/common/try.py" />
         <option value="$PROJECT_DIR$/common/wirteexcel.py" />
-        <option value="$PROJECT_DIR$/common/readexcel.py" />
         <option value="$PROJECT_DIR$/run_all_case.py" />
         <option value="$PROJECT_DIR$/case/test_01.py" />
         <option value="$PROJECT_DIR$/case/test_02.py" />
+        <option value="$PROJECT_DIR$/common/readexcel.py" />
         <option value="$PROJECT_DIR$/common/api.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="849" />
+    <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
       <showMembers ProjectPane="true" />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="ProjectPane">
         <subPane>
-          <expand>
-            <path>
-              <item name="newstart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newstart" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newstart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newstart" type="462c0819:PsiDirectoryNode" />
-              <item name="case" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newstart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newstart" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="newstart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="newstart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="newstart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="newstart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="logs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="newstart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="newstart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="newstart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="newstart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="case" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/misc.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/newstart.iml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/case/__pycache__/test_01.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/case/__pycache__/test_02.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/common/api.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/certifi-2018.4.16.dist-info/DESCRIPTION.rst</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/certifi-2018.4.16.dist-info/INSTALLER</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/certifi-2018.4.16.dist-info/LICENSE.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/certifi-2018.4.16.dist-info/METADATA</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/certifi-2018.4.16.dist-info/RECORD</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/certifi-2018.4.16.dist-info/WHEEL</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/certifi-2018.4.16.dist-info/metadata.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/certifi-2018.4.16.dist-info/top_level.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/certifi/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/certifi/__main__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/certifi/__pycache__/__init__.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/certifi/__pycache__/__main__.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/certifi/__pycache__/core.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/certifi/cacert.pem</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/certifi/core.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet-3.0.4.dist-info/DESCRIPTION.rst</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet-3.0.4.dist-info/INSTALLER</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet-3.0.4.dist-info/METADATA</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet-3.0.4.dist-info/RECORD</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet-3.0.4.dist-info/WHEEL</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet-3.0.4.dist-info/entry_points.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet-3.0.4.dist-info/metadata.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet-3.0.4.dist-info/top_level.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/__init__.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/big5freq.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/big5prober.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/chardistribution.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/charsetgroupprober.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/charsetprober.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/codingstatemachine.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/compat.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/cp949prober.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/enums.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/escprober.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/escsm.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/eucjpprober.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/euckrfreq.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/euckrprober.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/euctwfreq.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/euctwprober.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/gb2312freq.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/gb2312prober.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/hebrewprober.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/jisfreq.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/jpcntx.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/langbulgarianmodel.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/langcyrillicmodel.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/langgreekmodel.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/langhebrewmodel.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/langhungarianmodel.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/langthaimodel.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/langturkishmodel.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/latin1prober.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/mbcharsetprober.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/mbcsgroupprober.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/mbcssm.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/sbcharsetprober.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/sbcsgroupprober.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/sjisprober.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/universaldetector.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/utf8prober.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/__pycache__/version.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/big5freq.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/big5prober.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/chardistribution.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/charsetgroupprober.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/charsetprober.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/cli/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/cli/__pycache__/__init__.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/cli/__pycache__/chardetect.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/cli/chardetect.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/codingstatemachine.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/compat.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/cp949prober.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/enums.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/escprober.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/escsm.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/eucjpprober.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/euckrfreq.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/euckrprober.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/euctwfreq.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/euctwprober.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/gb2312freq.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/gb2312prober.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/hebrewprober.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/jisfreq.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/jpcntx.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/langbulgarianmodel.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/langcyrillicmodel.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/langgreekmodel.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/langhebrewmodel.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/langhungarianmodel.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/langthaimodel.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/langturkishmodel.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/latin1prober.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/mbcharsetprober.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/mbcsgroupprober.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/mbcssm.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/sbcharsetprober.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/sbcsgroupprober.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/sjisprober.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/universaldetector.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/utf8prober.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/chardet/version.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/idna-2.6.dist-info/DESCRIPTION.rst</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/idna-2.6.dist-info/INSTALLER</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/idna-2.6.dist-info/METADATA</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/idna-2.6.dist-info/RECORD</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/idna-2.6.dist-info/WHEEL</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/idna-2.6.dist-info/metadata.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/idna-2.6.dist-info/top_level.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/idna/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/idna/__pycache__/__init__.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/idna/__pycache__/codec.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/idna/__pycache__/compat.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/idna/__pycache__/core.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/idna/__pycache__/idnadata.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/idna/__pycache__/intranges.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/idna/__pycache__/package_data.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/idna/__pycache__/uts46data.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/idna/codec.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/idna/compat.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/idna/core.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/idna/idnadata.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/idna/intranges.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/idna/package_data.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/idna/uts46data.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests-2.18.4.dist-info/DESCRIPTION.rst</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests-2.18.4.dist-info/INSTALLER</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests-2.18.4.dist-info/METADATA</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests-2.18.4.dist-info/RECORD</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests-2.18.4.dist-info/WHEEL</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests-2.18.4.dist-info/metadata.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests-2.18.4.dist-info/top_level.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/__pycache__/__init__.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/__pycache__/__version__.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/__pycache__/_internal_utils.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/__pycache__/adapters.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/__pycache__/api.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/__pycache__/auth.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/__pycache__/certs.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/__pycache__/compat.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/__pycache__/cookies.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/__pycache__/exceptions.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/__pycache__/help.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/__pycache__/hooks.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/__pycache__/models.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/__pycache__/packages.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/__pycache__/sessions.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/__pycache__/status_codes.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/__pycache__/structures.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/__pycache__/utils.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/__version__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/_internal_utils.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/adapters.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/api.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/auth.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/certs.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/compat.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/cookies.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/exceptions.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/help.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/hooks.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/models.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/packages.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/sessions.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/status_codes.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/structures.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/requests/utils.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3-1.22.dist-info/DESCRIPTION.rst</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3-1.22.dist-info/INSTALLER</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3-1.22.dist-info/METADATA</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3-1.22.dist-info/RECORD</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3-1.22.dist-info/WHEEL</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3-1.22.dist-info/metadata.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3-1.22.dist-info/top_level.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/__pycache__/__init__.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/__pycache__/_collections.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/__pycache__/connection.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/__pycache__/connectionpool.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/__pycache__/exceptions.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/__pycache__/fields.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/__pycache__/filepost.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/__pycache__/poolmanager.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/__pycache__/request.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/__pycache__/response.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/_collections.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/connection.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/connectionpool.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/__pycache__/__init__.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/__pycache__/appengine.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/__pycache__/ntlmpool.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/__pycache__/pyopenssl.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/__pycache__/securetransport.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/__pycache__/socks.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/_securetransport/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/_securetransport/__pycache__/__init__.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/_securetransport/__pycache__/bindings.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/_securetransport/__pycache__/low_level.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/_securetransport/bindings.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/_securetransport/low_level.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/appengine.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/ntlmpool.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/pyopenssl.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/securetransport.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/socks.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/exceptions.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/fields.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/filepost.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/packages/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/packages/__pycache__/__init__.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/packages/__pycache__/ordered_dict.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/packages/__pycache__/six.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/packages/backports/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/packages/backports/__pycache__/__init__.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/packages/backports/__pycache__/makefile.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/packages/backports/makefile.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/packages/ordered_dict.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/packages/six.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/packages/ssl_match_hostname/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/packages/ssl_match_hostname/__pycache__/__init__.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/packages/ssl_match_hostname/__pycache__/_implementation.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/packages/ssl_match_hostname/_implementation.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/poolmanager.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/request.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/response.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/__pycache__/__init__.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/__pycache__/connection.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/__pycache__/request.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/__pycache__/response.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/__pycache__/retry.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/__pycache__/selectors.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/__pycache__/ssl_.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/__pycache__/timeout.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/__pycache__/url.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/__pycache__/wait.cpython-36.pyc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/connection.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/request.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/response.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/retry.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/selectors.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/ssl_.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/timeout.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/url.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/wait.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/venv/Scripts/chardetect.exe</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -152,7 +574,79 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.run_all_case">
+  <component name="RunManager">
+    <configuration default="false" name="logger" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="newstart" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/logger.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="readexcel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="newstart" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/readexcel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="try" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="newstart" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="wirteexcel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="newstart" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/wirteexcel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,97 +663,7 @@
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="logger" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="newstart" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/logger.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="readexcel" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="newstart" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/readexcel.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="run_all_case" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="newstart" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_all_case.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="newstart" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/try.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="wirteexcel" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="newstart" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/wirteexcel.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+      <method />
     </configuration>
     <configuration default="true" type="Tox" factoryName="Tox">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -293,34 +697,37 @@
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
-      <module name="newstart" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="newstart" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;.&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
     </configuration>
-    <list>
-      <item itemvalue="Python.logger" />
-      <item itemvalue="Python.readexcel" />
-      <item itemvalue="Python.try" />
-      <item itemvalue="Python.wirteexcel" />
-      <item itemvalue="Python.run_all_case" />
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Python.logger" />
+      <item index="1" class="java.lang.String" itemvalue="Python.readexcel" />
+      <item index="2" class="java.lang.String" itemvalue="Python.try" />
+      <item index="3" class="java.lang.String" itemvalue="Python.wirteexcel" />
     </list>
     <recent_temporary>
-      <list>
-        <item itemvalue="Python.run_all_case" />
-        <item itemvalue="Python.wirteexcel" />
-        <item itemvalue="Python.try" />
-        <item itemvalue="Python.readexcel" />
-        <item itemvalue="Python.logger" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.wirteexcel" />
+        <item index="1" class="java.lang.String" itemvalue="Python.try" />
+        <item index="2" class="java.lang.String" itemvalue="Python.readexcel" />
+        <item index="3" class="java.lang.String" itemvalue="Python.logger" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -344,26 +751,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10952381" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3402854" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293348" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.24939173" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="Data View" order="3" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.109508544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293348" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24939173" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -373,69 +781,15 @@
     <MESSAGE value="update" />
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/common/logger.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#19#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/readexcel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/wirteexcel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
-          <folding>
-            <element signature="e#19#53#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/try.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run_all_case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-          <folding>
-            <element signature="e#25#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/logger.py">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
           <folding>
             <element signature="e#19#33#0" expanded="true" />
           </folding>
@@ -456,6 +810,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -463,13 +818,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/common/logger.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
           <folding>
             <element signature="e#19#33#0" expanded="true" />
           </folding>
@@ -479,82 +835,84 @@
     <entry file="file://$PROJECT_DIR$/common/try.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/common/readexcel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="798">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/common/try.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run_all_case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-          <folding>
-            <element signature="e#25#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/logger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#19#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/test_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/readexcel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="17" />
+        <state relative-caret-position="352">
+          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/common/wirteexcel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+        <state relative-caret-position="624">
+          <caret line="40" column="35" lean-forward="false" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
           <folding>
             <element signature="e#19#53#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding>
+            <element signature="e#19#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/readexcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/common/api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="768">
+          <caret line="95" column="0" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
           <folding>
             <element signature="e#19#30#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_all_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>

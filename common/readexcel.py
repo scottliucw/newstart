@@ -32,7 +32,6 @@ class ExcelUtil(object):
             return r
 
 
-
 if __name__ == '__main__':
     filepath = 'D:\\test\\testcase.xlsx'
     sheetName = 'Sheet1'
