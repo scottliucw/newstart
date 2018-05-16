@@ -32,7 +32,7 @@ def send_requests(s, testdata):
     # 判断传data数据还是json
     if type == 'data':
         body = bodydata
-    elif type == 'json'
+    elif type == 'json':
         body = json.dumps(bodydata)
     else:
         body = bodydata
