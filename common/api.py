@@ -5,6 +5,7 @@ import requests
 from common.readexcel import ExcelUtil
 from common.wirteexcel import copy_excel, Write_excel
 
+
 def send_requests(s, testdata):
     method = testdata['method']
     url = testdata['url']
