@@ -72,6 +72,7 @@ def send_requests(s, testdata):
         res['msg'] = str(msg)
         return res
 
+
 def wirte_result(result, filename='result.xlsx'):
     # 返回结果的行数row_nub
     row_nub = result['rowNum']
