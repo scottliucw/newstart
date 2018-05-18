@@ -4,6 +4,8 @@ import unittest
 import os
 import time
 from common import HTMLTestRunner_api
+from common import email
+from config import readConfig
 
 
 curpath = os.path.dirname(os.path.realpath(__file__))
@@ -34,6 +36,21 @@ def run_case(case, reportpath=report_path):
     runner.run(case)
     fp.close()
 
+
+def get_report_file(report_path):
+    lists = os.listdir(report_path)
+    lists.sort(key=lambda fn: os.path.getmtime(os.path.join(report_path, fn)))
+    report_file = os.path.join(report_path, lists[-1])
+    return report_file
+
 if __name__ == '__main__':
     cases = add_case()
     run_case(cases)
+    report_path = os.path.join(curpath, 'report')
+    report_file = get_report_file(report_path)
+    sender = readConfig.sender
+    psw = readConfig.psw
+    smtp_server = readConfig.smtp_server
+    port = readConfig.port
+    receiver = readConfig.receiver
+    email.send_mail(sender, psw, receiver, smtp_server, report_file, port)
