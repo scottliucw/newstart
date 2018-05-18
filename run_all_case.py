@@ -29,7 +29,8 @@ def run_case(case, reportpath=report_path):
                                                verbosity=2,
                                                retry=5,
                                                title="测试报告",
-                                               description="用例执行情况")
+                                               description="用例执行情况",
+                                               save_last_try=True)
     runner.run(case)
     fp.close()
 
